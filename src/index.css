@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+h1 {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
